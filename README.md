@@ -57,8 +57,8 @@ profit = 0.005                   # 0.5% profit target (for logging)
 
 **API Configuration:**
 ```python
-api_key1 = "your_binance_api_key"
-api_secret1 = "your_binance_secret"
+api_key = "your_binance_api_key"
+api_secret = "your_binance_secret"
 ```
 
 ### 3. Create Required Files
