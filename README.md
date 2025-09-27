@@ -35,7 +35,7 @@ Wave Trend momentum trading bot with trailing stop-loss for cryptocurrency marke
 
 ### 1. Install Dependencies
 ```bash
-pip install ccxt python-binance pandas numpy finta requests
+pip install -r requirements.txt
 ```
 
 ### 2. Configure Parameters
