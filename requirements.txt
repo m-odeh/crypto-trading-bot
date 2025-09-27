@@ -1,0 +1,6 @@
+ccxt
+python-binance
+finta
+requests
+pandas
+numpy
